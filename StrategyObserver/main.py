@@ -1,25 +1,38 @@
 from User import User
-from Plataform import Platform, StrategyAmazon, StrategyDisney, StrategyHBO, StrategyNetflix, StrategySpotify
+from Plataform import Platform, StrategySpotifyFree, StrategyAmazon, StrategyDisney, StrategyHBO, StrategyNetflix, StrategySpotify
 
 spotify = Platform(StrategySpotify())
 
+spotify.attachStrategy_metodos(StrategySpotifyFree())
+
+## Aqui metodo de pago 0 = spotify normal 
+##      metodo de pago 1 = spotidu free
+
 Alicia = User("ALicia", 50)
 Leo = User("Leo", 2000)
+Chuby = User("Chuby", 300 )
 
-spotify.attach(Alicia)
-spotify.attach(Leo)
+print(f"The account has (Alicia): {Alicia.get_money()}")
+print(f"The account has (Chuby): {Chuby.get_money()}")
 
-print(Alicia.get_money())
+spotify.attach(Alicia,0)
+spotify.attach(Leo,1) #spotify free
+spotify.attach(Chuby,0)
 
-Alicia.pay(spotify.level("base"), spotify)
 
-print(f"The account has: {Alicia.get_money()}")
+spotify.execute()
 
-print(spotify.observers)
+###Alicia.pay(spotify.level("base"), spotify)
 
-spotify.attach(Alicia)
+print(f"The account has (Alicia): {Alicia.get_money()}")
+print(f"The account has (Chuby): {Chuby.get_money()}")
 
-print(spotify.observers)
+
+#print(spotify.observers)
+
+spotify.attach(Alicia,0)
+
+#print(spotify.observers)
 
 
 #TODO Revisar notify
