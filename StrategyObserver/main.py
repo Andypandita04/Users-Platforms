@@ -1,7 +1,8 @@
 from User import User
-from Plataform import Platform, StrategySpotifyFree, StrategyAmazon, StrategyDisney, StrategyHBO, StrategyNetflix, StrategySpotify
-
-spotify = Platform(StrategySpotify())
+#from Plataform import Platform, StrategySpotifyFree, StrategyAmazon, StrategyDisney, StrategyHBO, StrategyNetflix, StrategySpotify
+from Plataform import Platform, StrategySpotifyFree,  StrategySpotifyPremium
+ 
+spotify = Platform(StrategySpotifyPremium())
 
 spotify.attachStrategy_metodos(StrategySpotifyFree())
 

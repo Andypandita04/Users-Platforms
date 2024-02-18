@@ -1,51 +1,56 @@
+
 class Strategy:
-    def execute(self):
-        pass
+    def __init__(self,name, amount, month_change):
+        self.name = name
+        self.amount = amount
+        self.month_change = month_change
+  
+    #Este metodo devuelve un booleano, verifica y realiza el pago del servicio 
+    def execute(self,cuenta):
 
+        #Checo si el cliente tiene dinero suficiente
+        money_cuenta = cuenta.observer.get_money()
+        if(money_cuenta >= self.amount):
+            money_cuenta -= self.amount
+            #Actualizo el dinero del cliente
+            cuenta.observer.set_money(money_cuenta)
 
-
-###################
-    ##### AQUI CASO DE SPOTY DONDE COBRE 80
-    # Recibe como parametro una cuenta de cliente
-class StrategySpotify(Strategy):
-    def execute(self, cliente):
-        money_cliente = cliente.observer.get_money()
-        if(money_cliente >= 80):
-            money_cliente -= 80
-            cliente.observer.set_money(money_cliente)
-            print(f"Se realizo el pago en Spotify normal {cliente.observer.name}")
-            aumento_Mes = cliente.get_month() +1
-            cliente.set_month(aumento_Mes)
+            print(f"{cuenta.observer.name}, se realizo con éxito el pago en {self.name}")
+            cuenta.increase_month()
+            return True
         else:
-            print(f"No se pudo realizar el pago {cliente.observer.name}")
-            
+            print(f"{cuenta.observer.name},no se pudo realizar el pago en {self.name} ")
+            return False
+    
+    def change_plan(self, cuenta):
+        if(self.month_change == cuenta.get_month()):
+            print(f"{cuenta.observer.name},ya pasaste {self.month_change} meses en {self.name}, te vamos a cambiar de plan ")
 
+
+
+
+class StrategySpotifyPremium(Strategy):
+    def __init__(self):
+        super().__init__("Spotify Premium", 80, .5)
+    
 
 class StrategySpotifyFree(Strategy):
-    def execute(self, cliente):
-        print(f"Se realizo tu pago de $0 {cliente.observer.name}. Recuerda que auhn tienes Spotify free")
-        aumento_Mes = cliente.get_month() +1
-        cliente.set_month(aumento_Mes)
+    def __init__(self):
+        super().__init__("Spotify Free",0, .5)
 
 
-
-
+class StrategyDisneyFree(Strategy):
+    def __init__(self, name, amount, month_change ):
+        super().__init__("Disney Start",130, 3)
 
 class StrategyDisney(Strategy):
-    def execute(self, num):
-        if num == "trial":
-            return 130
-        if num == "base":
-            return 160
-
-class StrategyNetflix(Strategy):
-    def execute(self, num):
-        if num == "oneDevice":
-            return 120
-        elif num == "twoDevice":
-            return 170
-        elif num == "fourDevice":
-            return 200
+    def __init__(self, name, amount, month_change ):
+        super().__init__("Disney", 160 ,.5)
+ 
+"""
+class StrategyNetflix_uno(Strategy):
+    def __init__(self, name, amount, month_change ):
+        super().__init__("Spotify Free", 4)
 
 class StrategyHBO(Strategy):
     def execute(self, num):
@@ -60,7 +65,7 @@ class StrategyAmazon(Strategy):
             return 110
         elif num == "premium":
             return 150
-
+"""
 
 ###############
 ###############
@@ -83,9 +88,9 @@ class cuentaObserver:
 
     def get_tipo_plan(self):
         return self.tipo_plan
-    
-    def set_month(self, nuevo):
-        self.tipo_plan = nuevo
+
+    def increase_month(self):
+        self.month += 1
     
     
     def imprimir_cuenta(self):
@@ -105,15 +110,6 @@ class Subject:
     def get_observers(self):
         return self.observers
 
-    """
-    def attach(self, observer):
-        self.observers.append(observer)
-
-        if observer in self.exObserver:
-            print(f"Bienvenido de vuelta {observer.name}")
-        else:
-            print(f"Hello {self.observers[-1].name}")
-    """
 
     ###Agrego una cuenta a mi lista de clientes
     def attach(self, observer, plan):
@@ -126,10 +122,12 @@ class Subject:
             print(f"Hello {self.observers[-1].observer.name}")        
         
 
-    def detach(self, observer):
-        self.observers.remove(observer)
-        self.exObserver.append(observer)
-        print(f"Lamentamos que nos dejes {observer.name}")
+    def detach(self, cuenta_observer):
+        self.observers.remove(cuenta_observer)
+        self.exObserver.append(cuenta_observer)
+        print(f"Lamentamos que nos dejes {cuenta_observer.observer.name}")
+        # Actualizo los meses de la cuenta a cero
+        cuenta_observer.set_month(0)
 
     def notify(self):
         for observer in self.observers:
@@ -160,7 +158,14 @@ class Platform(Subject):
         for cliente in listaclientes:
             plan_cliente = cliente.get_tipo_plan()
             self.set_strategy( self.metodos_de_pago[plan_cliente] )
-            self.strategy.execute(cliente)
+
+            # Bandera guarda un booleano, me dice si se pudo realizar el pago o no
+            bandera = self.strategy.execute(cliente)
+
+            #Si NO se realizo el pago, quito la suscripcion de mi cliente 
+            if( bandera== False):
+                self.detach(cliente)
+
 
 
     #def level(self, num):
