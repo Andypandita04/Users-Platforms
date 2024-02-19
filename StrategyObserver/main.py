@@ -2,7 +2,7 @@ from User import User
 #from Plataform import Platform, StrategySpotifyFree, StrategyAmazon, StrategyDisney, StrategyHBO, StrategyNetflix, StrategySpotify
 from Plataform import Platform, StrategySpotifyFree,  StrategySpotifyPremium
  
-spotify = Platform(StrategySpotifyPremium())
+spotify = Platform("Spotify", StrategySpotifyPremium())
 
 spotify.attachStrategy_metodos(StrategySpotifyFree())
 
@@ -13,27 +13,35 @@ Alicia = User("ALicia", 50)
 Leo = User("Leo", 2000)
 Chuby = User("Chuby", 300 )
 
-print(f"The account has (Alicia): {Alicia.get_money()}")
-print(f"The account has (Chuby): {Chuby.get_money()}")
-
-spotify.attach(Alicia,0)
+spotify.attach(Alicia,1)
 spotify.attach(Leo,1) #spotify free
 spotify.attach(Chuby,0)
 
 
+
+print("\nMES 1")
 spotify.execute()
 
-###Alicia.pay(spotify.level("base"), spotify)
-
-print(f"The account has (Alicia): {Alicia.get_money()}")
-print(f"The account has (Chuby): {Chuby.get_money()}")
+print("\nMES 2")
+spotify.execute()
 
 
-#print(spotify.observers)
+print("\nMES 3")
+spotify.execute()
 
-spotify.attach(Alicia,0)
 
-#print(spotify.observers)
+print("\nMES 4")
+spotify.execute()
+
+print("\n\n\n")
+
+spotify.attach(Chuby,0)
+
+print("\nMES 5\n\n")
+spotify.execute()
+
+
+
 
 
 #TODO Revisar notify
