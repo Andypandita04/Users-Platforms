@@ -1,4 +1,15 @@
 
+def write_on_file(texto, nombre_archivo):
+    # Asegura que el nombre del archivo tenga la extensión .txt
+    if not nombre_archivo.endswith(".txt"):
+        nombre_archivo += ".txt"
+    
+    # Abre el archivo en modo de añadir o crea uno nuevo si no existe, luego escribe el texto en una nueva línea
+    with open(nombre_archivo, "a") as archivo:
+        archivo.write(texto + "\n")
+
+
+
 class Strategy:
     def __init__(self,name, amount, month_change):
         self.name = name
@@ -9,7 +20,6 @@ class Strategy:
     def execute(self,cuenta):
         cuenta.increase_month()
 
-
         #Checo si el cliente tiene dinero suficiente
         money_cuenta = cuenta.observer.get_money()
         if(money_cuenta >= self.amount):
@@ -17,10 +27,10 @@ class Strategy:
             #Actualizo el dinero del cliente
             cuenta.observer.set_money(money_cuenta)
 
-            print(f"{cuenta.observer.name}, se realizo con éxito el pago del mes {cuenta.get_month()} en {self.name}")
+            write_on_file(f"{cuenta.observer.name}, se realizo con éxito el pago del mes {cuenta.get_month()} en {self.name}", "log.txt")
             return True
         else:
-            print(f"{cuenta.observer.name},no se pudo realizar el pago en {self.name} ")
+            write_on_file(f"{cuenta.observer.name},no se pudo realizar el pago en {self.name}", "log.txt")
             return False
     
     """
@@ -31,7 +41,7 @@ class Strategy:
         result = False
 
         if(self.month_change == cuenta.get_month()):
-            print(f"------AVISO :{cuenta.observer.name},ya pasaste {self.month_change} meses en {self.name}, te vamos a cambiar de plan.")
+            write_on_file(f"------AVISO :{cuenta.observer.name}, ya pasaste {self.month_change} meses en {self.name}, te vamos a cambiar de plan.", "log.txt")
             result = True
 
         return result
@@ -50,24 +60,24 @@ class StrategySpotifyFree(Strategy):
 
 
 class StrategyDisneyStart(Strategy):
-    def __init__(self, name, amount, month_change ):
+    def __init__(self):
         super().__init__("Disney Start",130, 3)
 
 class StrategyDisney(Strategy):
-    def __init__(self, name, amount, month_change ):
+    def __init__(self):
         super().__init__("Disney", 160 ,.5)
  
 
 class StrategyNetflix_uno(Strategy):
-    def __init__(self, name, amount, month_change ):
+    def __init__(self):
         super().__init__("Netflix para un dispositivo",120, .5)
 
 class StrategyNetflix_dos(Strategy):
-    def __init__(self, name, amount, month_change ):
+    def __init__(self):
         super().__init__("Netflix para 2 dispositivos",170, .5)
 
 class StrategyNetflix_cuatro(Strategy):
-    def __init__(self, name, amount, month_change ):
+    def __init__(self):
         super().__init__("Netflix para 4 dispositivos", 200, .5)
 
 class StrategyHBOFree(Strategy):
@@ -79,11 +89,11 @@ class StrategyHBO(Strategy):
         super().__init__("HBO Free", 140, .5)
 
 class StrategyAmazon(Strategy):
-    def __init__(self, name, amount, month_change ):
+    def __init__(self):
         super().__init__("Amazon", 110, .5)
 
 class StrategyAmazonPremium(Strategy):
-    def __init__(self, name, amount, month_change ):
+    def __init__(self):
         super().__init__("Amazon Premium", 150, .5)
 
 
@@ -115,17 +125,13 @@ class cuentaObserver:
     def increase_month(self):
         self.month += 1
 
-    def __eq__(self, cuenta2):
-        if(self.observer == cuenta2.observer):
-            return True
-        else:
-            return False
+
     
     
     def imprimir_cuenta(self):
-        print(f"Observer: {self.observer}")
-        print(f"Month: {self.month}")
-        print(f"Tipo Plan: {self.tipo_plan}")
+        write_on_file(f"Observer: {self.observer}", "log.txt")
+        write_on_file(f"Month: {self.month}", "log.txt")
+        write_on_file(f"Tipo Plan: {self.tipo_plan}", "log.txt")
 ###############
 ###############
 ###############
@@ -218,17 +224,21 @@ class Platform(Subject):
             self.exObserver.remove(cuenta)
             #Lo agrego a observer (la lista de clientes)
             self.observers.append(cuenta)
-            print(f"Bienvenido de vuelta a {self.metodos_de_pago[plan].name}, {cuenta.observer.name}")
+            write_on_file(f"Bienvenido de vuelta a {self.metodos_de_pago[plan].name}, {cuenta.observer.name}", "log.txt")
         else:
             #Los agrego a observer (la lista de clientes)
             self.observers.append(cuenta)
-            print(f"{self.observers[-1].observer.name}, bienvenido a {self.metodos_de_pago[plan].name}")        
+            write_on_file(f"{self.observers[-1].observer.name}, bienvenido a {self.metodos_de_pago[plan].name}", "log.txt")        
     
     
     def detach(self, cuenta_observer):
-        self.observers.remove(cuenta_observer)
-        self.exObserver.append(cuenta_observer)
-        print(f"{self.name} mensaje : Lamentamos que nos dejes {cuenta_observer.observer.name}")
-        # Actualizo los meses de la cuenta a cero
-        cuenta_observer.set_month(0)    
+        for account in self.observers:
+            if account.observer == cuenta_observer:
+                self.observers.remove(account)
+                self.exObserver.append(account)
+                write_on_file(f"{self.name} mensaje : Lamentamos que nos dejes {cuenta_observer.name}", 'log.txt')
+                # Actualizo los meses de la cuenta a cero
+                account.set_month(0)  
+
+          
 
