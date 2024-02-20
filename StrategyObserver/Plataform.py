@@ -1,3 +1,4 @@
+import random as rd
 
 def write_on_file(texto, nombre_archivo):
     # Asegura que el nombre del archivo tenga la extensión .txt
@@ -125,6 +126,12 @@ class cuentaObserver:
     def increase_month(self):
         self.month += 1
 
+    def __eq__(self, cuenta2):
+        if(self.observer == cuenta2.observer):
+            return True
+        else:
+            return False 
+
 
     
     
@@ -197,8 +204,10 @@ class Platform(Subject):
             #Si NO se realizo el pago, quito la suscripcion de mi cliente 
             if( banderaPago == False):
                 self.detach(cliente)
+            else:
 
-            # Bandera que guarda un booleano, me dice si ya cambia el metodo de pago 
+                write_on_file(f"Hola! {cliente.observer.name}, Te recomendamos {rd.choice(self.recomendaciones[0])} de nuestra plataforma.", "log.txt")
+           # Bandera que guarda un booleano, me dice si ya cambia el metodo de pago 
             # Solo aplica de la prueba free a premium
             banderaPrueba = self.strategy.change_plan(cliente)
             if(banderaPrueba ==True):

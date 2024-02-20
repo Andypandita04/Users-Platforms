@@ -1,32 +1,38 @@
 from User import User
 from Plataform import Platform, StrategySpotifyFree,  StrategySpotifyPremium, write_on_file, StrategyAmazon, StrategyAmazonPremium, StrategyDisney, StrategyDisneyStart, StrategyHBO, StrategyHBOFree, StrategyNetflix_uno, StrategyNetflix_dos, StrategyNetflix_cuatro
+
  
  #platforms
 
 spotify = Platform("Spotify", StrategySpotifyPremium())
 spotify.attachStrategy_metodos(StrategySpotifyFree())
+spotify.add_recommen(['adele', 'peso pluma', 'morat'])
 ##  metodo de pago 0 = spotify normal 
 ##  metodo de pago 1 = spotify free
 
 amazon = Platform("Amazon", StrategyAmazonPremium())
 amazon.attachStrategy_metodos(StrategyAmazon())
+amazon.add_recommen(['Cindy la regia', 'Me gusta pero me asusta', 'El infierno'])
 ##  metodo de pago 0 = amazon premium
 ##  metodo de pago 1 = amazon normal
 
 netflix = Platform("Netflix", StrategyNetflix_uno())
 netflix.attachStrategy_metodos(StrategyNetflix_dos())
 netflix.attachStrategy_metodos(StrategyNetflix_cuatro())
+netflix.add_recommen(['Black mirror', 'One Piece', 'La asesina del romance'])
 ##  metodo de pago 0 = netflix 1
 ##  metodo de pago 1 = netflix 2
 ##  metodo de pago 2 = netflix 4
 
 hbo = Platform("HBO", StrategyHBO())
 hbo.attachStrategy_metodos(StrategyHBOFree())
+hbo.add_recommen(['Nosotros los nobles', 'Ghost in a shell', 'In a loop'])
 ##  metodo de pago 0 = hbo normal 
 ##  metodo de pago 1 = hbo free
 
 disney = Platform("Disney", StrategyDisney())
 disney.attachStrategy_metodos(StrategyDisneyStart())
+disney.add_recommen(['Moana', 'Soul', 'Inside Out'])
 
 #Users
 
@@ -43,7 +49,7 @@ amazon.attach(Alicia, 0)
 netflix.attach(Alicia, 2)
 hbo.attach(Alicia, 1)
 disney.attach(Alicia, 1)
-
+write_on_file("\n", "log.txt")
 #Bob
 spotify.attach(Bob, 0)
 amazon.attach(Bob, 0)
@@ -51,20 +57,28 @@ netflix.attach(Bob, 0)
 hbo.attach(Bob, 1)
 disney.attach(Bob, 1)
 
+write_on_file("\n", "log.txt")
+#Bob
 #Cesar
 disney.attach(Cesar, 1)
 hbo.attach(Cesar, 1)
 
+write_on_file("\n", "log.txt")
+#Bob
 #Diego
 hbo.attach(Diego, 1)
 amazon.attach(Diego, 1)
 spotify.attach(Diego, 1)
 
+write_on_file("\n", "log.txt")
+#Bob
 #Erika
 netflix.attach(Erika, 2)
 spotify.attach(Erika, 1)
 hbo.attach(Erika, 1)
 
+write_on_file("\n", "log.txt")
+#Bob
 #Fausto
 disney.attach(Fausto, 1)
 hbo.attach(Fausto, 1)
