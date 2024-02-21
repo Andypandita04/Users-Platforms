@@ -1,37 +1,36 @@
 from User import User
-from Plataform import Platform, StrategySpotifyFree,  StrategySpotifyPremium, write_on_file, StrategyAmazon, StrategyAmazonPremium, StrategyDisney, StrategyDisneyStart, StrategyHBO, StrategyHBOFree, StrategyNetflix_uno, StrategyNetflix_dos, StrategyNetflix_cuatro
-
+from Plataform import Platform, StrategySpotifyFree,  StrategySpotifyPremium, write_on_file, StrategyAmazon, StrategyAmazonPremium, StrategyDisney, StrategyDisneyStart, StrategyHBO, StrategyHBOFree, StrategyNetflix_uno, StrategyNetflix_dos, StrategyNetflix_cuatro, Inter_Spotify, Inter_Amazon, Inter_Disney, Inter_HBO, Inter_Netflix
  
  #platforms
 
-spotify = Platform("Spotify", StrategySpotifyPremium())
-spotify.attachStrategy_metodos(StrategySpotifyFree())
+spotify = Platform("Spotify", Inter_Spotify())
+#spotify.attachStrategy_metodos(StrategySpotifyFree())
 spotify.add_recommen(['adele', 'peso pluma', 'morat'])
 ##  metodo de pago 0 = spotify normal 
 ##  metodo de pago 1 = spotify free
 
-amazon = Platform("Amazon", StrategyAmazonPremium())
-amazon.attachStrategy_metodos(StrategyAmazon())
+amazon = Platform("Amazon", Inter_Amazon())
+#amazon.attachStrategy_metodos(StrategyAmazon())
 amazon.add_recommen(['Cindy la regia', 'Me gusta pero me asusta', 'El infierno'])
 ##  metodo de pago 0 = amazon premium
 ##  metodo de pago 1 = amazon normal
 
-netflix = Platform("Netflix", StrategyNetflix_uno())
-netflix.attachStrategy_metodos(StrategyNetflix_dos())
-netflix.attachStrategy_metodos(StrategyNetflix_cuatro())
+netflix = Platform("Netflix", Inter_Netflix())
+#netflix.attachStrategy_metodos(StrategyNetflix_dos())
+#netflix.attachStrategy_metodos(StrategyNetflix_cuatro())
 netflix.add_recommen(['Black mirror', 'One Piece', 'La asesina del romance'])
 ##  metodo de pago 0 = netflix 1
 ##  metodo de pago 1 = netflix 2
 ##  metodo de pago 2 = netflix 4
 
-hbo = Platform("HBO", StrategyHBO())
-hbo.attachStrategy_metodos(StrategyHBOFree())
+hbo = Platform("HBO", Inter_HBO())
+#hbo.attachStrategy_metodos(StrategyHBOFree())
 hbo.add_recommen(['Nosotros los nobles', 'Ghost in a shell', 'In a loop'])
 ##  metodo de pago 0 = hbo normal 
 ##  metodo de pago 1 = hbo free
 
-disney = Platform("Disney", StrategyDisney())
-disney.attachStrategy_metodos(StrategyDisneyStart())
+disney = Platform("Disney",  Inter_Disney())
+#disney.attachStrategy_metodos(StrategyDisneyStart())
 disney.add_recommen(['Moana', 'Soul', 'Inside Out'])
 
 #Users
@@ -44,44 +43,44 @@ Erika = User("Erika", 10000)
 Fausto = User("Fausto", 5000)
 
 #Alicia 
-spotify.attach(Alicia, 0)
-amazon.attach(Alicia, 0)
-netflix.attach(Alicia, 2)
-hbo.attach(Alicia, 1)
-disney.attach(Alicia, 1)
+spotify.attach(Alicia, 7)
+amazon.attach(Alicia, 5)
+netflix.attach(Alicia, 3)
+hbo.attach(Alicia, 11)
+disney.attach(Alicia, 9)
 write_on_file("\n", "log.txt")
 #Bob
-spotify.attach(Bob, 0)
-amazon.attach(Bob, 0)
-netflix.attach(Bob, 0)
-hbo.attach(Bob, 1)
-disney.attach(Bob, 1)
+spotify.attach(Bob, 7)
+amazon.attach(Bob, 5)
+netflix.attach(Bob, 3)
+hbo.attach(Bob, 11)
+disney.attach(Bob, 9)
 
 write_on_file("\n", "log.txt")
 #Bob
 #Cesar
-disney.attach(Cesar, 1)
-hbo.attach(Cesar, 1)
+disney.attach(Cesar, 8)
+hbo.attach(Cesar, 10)
 
 write_on_file("\n", "log.txt")
 #Bob
 #Diego
-hbo.attach(Diego, 1)
-amazon.attach(Diego, 1)
-spotify.attach(Diego, 1)
+hbo.attach(Diego, 10)
+amazon.attach(Diego, 5)
+spotify.attach(Diego, 6)
 
 write_on_file("\n", "log.txt")
 #Bob
 #Erika
-netflix.attach(Erika, 2)
-spotify.attach(Erika, 1)
-hbo.attach(Erika, 1)
+netflix.attach(Erika, 3)
+spotify.attach(Erika, 6)
+hbo.attach(Erika, 10)
 
 write_on_file("\n", "log.txt")
 #Bob
 #Fausto
-disney.attach(Fausto, 1)
-hbo.attach(Fausto, 1)
+disney.attach(Fausto, 8)
+hbo.attach(Fausto, 10)
 
 for month in range(1,13):
     write_on_file(f"\nMES {month}", "log.txt")
@@ -91,20 +90,20 @@ for month in range(1,13):
             disney.detach(Bob)
             hbo.detach(Bob)
             hbo.detach(Erika)
-            disney.attach(Erika,1)
+            disney.attach(Erika,8)
 
             disney.detach(Fausto)
             hbo.detach(Fausto)
-            netflix.attach(Fausto, 0)
+            netflix.attach(Fausto, 1)
         case 4:
             netflix.detach(Bob)
             amazon.detach(Bob)
 
         case 5:
-            disney.attach(Fausto, 1)
-            hbo.attach(Fausto, 1)
+            disney.attach(Fausto, 9)
+            hbo.attach(Fausto, 11)
         case 6:
-            disney.attach(Diego, 1)
+            disney.attach(Diego, 8)
 
             netflix.detach(Erika)
             spotify.detach(Erika)
@@ -116,13 +115,14 @@ for month in range(1,13):
 
         case 7:
             spotify.attach(Cesar, 0)
-            netflix.attach(Diego, 0)
+            netflix.attach(Diego, 7)
+            spotify.attach(Diego,7)
             amazon.detach(Diego)
 
         case 10:
-            amazon.attach(Erika, 0)
-            hbo.attach(Erika, 0)
-            disney.attach(Erika, 0)
+            amazon.attach(Erika, 4)
+            hbo.attach(Erika, 10)
+            disney.attach(Erika, 9)
 
     write_on_file("\n", "log.txt")
     spotify.execute()

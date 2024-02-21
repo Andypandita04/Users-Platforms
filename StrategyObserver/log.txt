@@ -1,0 +1,586 @@
+Alicia, bienvenido a Spotify
+Alicia, bienvenido a Amazon
+Alicia, bienvenido a Netflix
+Alicia, bienvenido a HBO
+Alicia, bienvenido a Disney
+
+
+Bob, bienvenido a Spotify
+Bob, bienvenido a Amazon
+Bob, bienvenido a Netflix
+Bob, bienvenido a HBO
+Bob, bienvenido a Disney
+
+
+Cesar, bienvenido a Disney
+Cesar, bienvenido a HBO
+
+
+Diego, bienvenido a HBO
+Diego, bienvenido a Amazon
+Diego, bienvenido a Spotify
+
+
+Erika, bienvenido a Netflix
+Erika, bienvenido a Spotify
+Erika, bienvenido a HBO
+
+
+Fausto, bienvenido a Disney
+Fausto, bienvenido a HBO
+
+MES 1
+
+
+Hola! Alicia, Te recomendamos morat de nuestra plataforma.
+Hola! Bob, Te recomendamos morat de nuestra plataforma.
+Hola! Diego, Te recomendamos morat de nuestra plataforma.
+Hola! Erika, Te recomendamos adele de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Bob, Te recomendamos Cindy la regia de nuestra plataforma.
+Hola! Diego, Te recomendamos El infierno de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos La asesina del romance de nuestra plataforma.
+Hola! Bob, Te recomendamos One Piece de nuestra plataforma.
+Hola! Erika, Te recomendamos One Piece de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Bob, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Cesar, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Diego, Te recomendamos In a loop de nuestra plataforma.
+Hola! Erika, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Fausto, Te recomendamos Ghost in a shell de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Bob, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Cesar, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Fausto, Te recomendamos Soul de nuestra plataforma.
+
+
+
+MES 2
+
+
+Hola! Alicia, Te recomendamos adele de nuestra plataforma.
+Hola! Bob, Te recomendamos morat de nuestra plataforma.
+Hola! Diego, Te recomendamos morat de nuestra plataforma.
+Hola! Erika, Te recomendamos morat de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Cindy la regia de nuestra plataforma.
+Hola! Bob, Te recomendamos El infierno de nuestra plataforma.
+Hola! Diego, Te recomendamos Cindy la regia de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos One Piece de nuestra plataforma.
+Hola! Bob, Te recomendamos One Piece de nuestra plataforma.
+Hola! Erika, Te recomendamos Black mirror de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos In a loop de nuestra plataforma.
+Hola! Bob, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Cesar, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Diego, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Erika, Te recomendamos In a loop de nuestra plataforma.
+Hola! Fausto, Te recomendamos Ghost in a shell de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Moana de nuestra plataforma.
+Hola! Bob, Te recomendamos Moana de nuestra plataforma.
+Hola! Cesar, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Fausto, Te recomendamos Inside Out de nuestra plataforma.
+
+
+
+MES 3
+Disney mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Erika
+Erika, bienvenido a Disney
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Fausto, bienvenido a Netflix
+
+
+Hola! Alicia, Te recomendamos morat de nuestra plataforma.
+Hola! Bob, Te recomendamos adele de nuestra plataforma.
+Hola! Diego, Te recomendamos morat de nuestra plataforma.
+Hola! Erika, Te recomendamos peso pluma de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Bob, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Diego, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos One Piece de nuestra plataforma.
+Hola! Bob, Te recomendamos La asesina del romance de nuestra plataforma.
+Hola! Erika, Te recomendamos Black mirror de nuestra plataforma.
+Hola! Fausto, Te recomendamos One Piece de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos In a loop de nuestra plataforma.
+Hola! Cesar, Te recomendamos In a loop de nuestra plataforma.
+Hola! Diego, Te recomendamos Ghost in a shell de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Cesar, Te recomendamos Moana de nuestra plataforma.
+Hola! Erika, Te recomendamos Inside Out de nuestra plataforma.
+
+
+
+MES 4
+Netflix mensaje : Lamentamos que nos dejes Bob
+Amazon mensaje : Lamentamos que nos dejes Bob
+
+
+Hola! Alicia, Te recomendamos adele de nuestra plataforma.
+Hola! Bob, Te recomendamos morat de nuestra plataforma.
+Hola! Diego, Te recomendamos adele de nuestra plataforma.
+Hola! Erika, Te recomendamos morat de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Diego, Te recomendamos Cindy la regia de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Black mirror de nuestra plataforma.
+Hola! Erika, Te recomendamos La asesina del romance de nuestra plataforma.
+Hola! Fausto, Te recomendamos One Piece de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Cesar, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Diego, Te recomendamos Ghost in a shell de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Cesar, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Erika, Te recomendamos Inside Out de nuestra plataforma.
+
+
+
+MES 5
+Alicia, bienvenido a Spotify
+Alicia, bienvenido a Amazon
+Alicia, bienvenido a Netflix
+Alicia, bienvenido a HBO
+Alicia, bienvenido a Disney
+
+
+Bob, bienvenido a Spotify
+Bob, bienvenido a Amazon
+Bob, bienvenido a Netflix
+Bob, bienvenido a HBO
+Bob, bienvenido a Disney
+
+
+Cesar, bienvenido a Disney
+Cesar, bienvenido a HBO
+
+
+Diego, bienvenido a HBO
+Diego, bienvenido a Amazon
+Diego, bienvenido a Spotify
+
+
+Erika, bienvenido a Netflix
+Erika, bienvenido a Spotify
+Erika, bienvenido a HBO
+
+
+Fausto, bienvenido a Disney
+Fausto, bienvenido a HBO
+
+MES 1
+
+
+Hola! Alicia, Te recomendamos adele de nuestra plataforma.
+Hola! Bob, Te recomendamos adele de nuestra plataforma.
+Hola! Diego, Te recomendamos adele de nuestra plataforma.
+Hola! Erika, Te recomendamos morat de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Bob, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Diego, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Black mirror de nuestra plataforma.
+Hola! Bob, Te recomendamos One Piece de nuestra plataforma.
+Hola! Erika, Te recomendamos La asesina del romance de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Bob, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Cesar, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Diego, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Erika, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Fausto, Te recomendamos In a loop de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Soul de nuestra plataforma.
+Hola! Bob, Te recomendamos Moana de nuestra plataforma.
+Hola! Cesar, Te recomendamos Moana de nuestra plataforma.
+Hola! Fausto, Te recomendamos Moana de nuestra plataforma.
+
+
+
+MES 2
+
+
+Hola! Alicia, Te recomendamos adele de nuestra plataforma.
+Hola! Bob, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Diego, Te recomendamos morat de nuestra plataforma.
+Hola! Erika, Te recomendamos peso pluma de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Bob, Te recomendamos Cindy la regia de nuestra plataforma.
+Hola! Diego, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos One Piece de nuestra plataforma.
+Hola! Bob, Te recomendamos One Piece de nuestra plataforma.
+Hola! Erika, Te recomendamos One Piece de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Bob, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Cesar, Te recomendamos In a loop de nuestra plataforma.
+Hola! Diego, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Erika, Te recomendamos In a loop de nuestra plataforma.
+Hola! Fausto, Te recomendamos Nosotros los nobles de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Bob, Te recomendamos Moana de nuestra plataforma.
+Hola! Cesar, Te recomendamos Soul de nuestra plataforma.
+Hola! Fausto, Te recomendamos Soul de nuestra plataforma.
+
+
+
+MES 3
+Disney mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Erika
+Erika, bienvenido a Disney
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Fausto, bienvenido a Netflix
+
+
+Hola! Alicia, Te recomendamos morat de nuestra plataforma.
+Hola! Bob, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Diego, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Erika, Te recomendamos adele de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos El infierno de nuestra plataforma.
+Hola! Bob, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Diego, Te recomendamos Cindy la regia de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos La asesina del romance de nuestra plataforma.
+Hola! Bob, Te recomendamos One Piece de nuestra plataforma.
+Hola! Erika, Te recomendamos Black mirror de nuestra plataforma.
+Hola! Fausto, Te recomendamos Black mirror de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos In a loop de nuestra plataforma.
+Hola! Cesar, Te recomendamos In a loop de nuestra plataforma.
+Hola! Diego, Te recomendamos Ghost in a shell de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Moana de nuestra plataforma.
+Hola! Cesar, Te recomendamos Soul de nuestra plataforma.
+Hola! Erika, Te recomendamos Inside Out de nuestra plataforma.
+
+
+
+MES 4
+Netflix mensaje : Lamentamos que nos dejes Bob
+Amazon mensaje : Lamentamos que nos dejes Bob
+
+
+Hola! Alicia, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Bob, Te recomendamos morat de nuestra plataforma.
+Hola! Diego, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Erika, Te recomendamos morat de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos El infierno de nuestra plataforma.
+Hola! Diego, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos One Piece de nuestra plataforma.
+Hola! Erika, Te recomendamos One Piece de nuestra plataforma.
+Hola! Fausto, Te recomendamos One Piece de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Cesar, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Diego, Te recomendamos In a loop de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Soul de nuestra plataforma.
+Hola! Cesar, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Erika, Te recomendamos Soul de nuestra plataforma.
+
+
+
+MES 5
+Bienvenido de vuelta a Disney, Fausto
+Bienvenido de vuelta a HBO, Fausto
+
+
+Hola! Alicia, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Bob, Te recomendamos adele de nuestra plataforma.
+Hola! Diego, Te recomendamos adele de nuestra plataforma.
+Hola! Erika, Te recomendamos adele de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Diego, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos La asesina del romance de nuestra plataforma.
+Hola! Erika, Te recomendamos Black mirror de nuestra plataforma.
+Hola! Fausto, Te recomendamos La asesina del romance de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Cesar, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Diego, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Fausto, Te recomendamos Ghost in a shell de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Moana de nuestra plataforma.
+Hola! Cesar, Te recomendamos Soul de nuestra plataforma.
+Hola! Erika, Te recomendamos Soul de nuestra plataforma.
+Hola! Fausto, Te recomendamos Moana de nuestra plataforma.
+
+
+
+MES 6
+Diego, bienvenido a Disney
+Netflix mensaje : Lamentamos que nos dejes Erika
+Spotify mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Netflix mensaje : Lamentamos que nos dejes Fausto
+
+
+Hola! Alicia, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Bob, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Diego, Te recomendamos morat de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Diego, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Black mirror de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos In a loop de nuestra plataforma.
+Hola! Cesar, Te recomendamos In a loop de nuestra plataforma.
+Hola! Diego, Te recomendamos In a loop de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Cesar, Te recomendamos Soul de nuestra plataforma.
+Hola! Diego, Te recomendamos Soul de nuestra plataforma.
+
+
+
+MES 7
+Cesar, bienvenido a Spotify
+Diego, bienvenido a Netflix
+Diego, bienvenido a Spotify
+Amazon mensaje : Lamentamos que nos dejes Diego
+
+
+Hola! Alicia, Te recomendamos morat de nuestra plataforma.
+Hola! Bob, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Diego, Te recomendamos adele de nuestra plataforma.
+Hola! Cesar, Te recomendamos adele de nuestra plataforma.
+Hola! Diego, Te recomendamos morat de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos One Piece de nuestra plataforma.
+Hola! Diego, Te recomendamos One Piece de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos In a loop de nuestra plataforma.
+Hola! Cesar, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Diego, Te recomendamos Ghost in a shell de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Moana de nuestra plataforma.
+Hola! Cesar, Te recomendamos Soul de nuestra plataforma.
+Hola! Diego, Te recomendamos Moana de nuestra plataforma.
+
+
+
+MES 8
+
+
+Hola! Alicia, Te recomendamos morat de nuestra plataforma.
+Hola! Bob, Te recomendamos adele de nuestra plataforma.
+Hola! Diego, Te recomendamos morat de nuestra plataforma.
+Hola! Cesar, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Diego, Te recomendamos adele de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos La asesina del romance de nuestra plataforma.
+Hola! Diego, Te recomendamos One Piece de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Cesar, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Diego, Te recomendamos Ghost in a shell de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Cesar, Te recomendamos Moana de nuestra plataforma.
+Hola! Diego, Te recomendamos Soul de nuestra plataforma.
+
+
+
+MES 9
+
+
+Hola! Alicia, Te recomendamos morat de nuestra plataforma.
+Hola! Bob, Te recomendamos adele de nuestra plataforma.
+Hola! Diego, Te recomendamos adele de nuestra plataforma.
+Hola! Cesar, Te recomendamos adele de nuestra plataforma.
+Hola! Diego, Te recomendamos peso pluma de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos El infierno de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Black mirror de nuestra plataforma.
+Hola! Diego, Te recomendamos One Piece de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos In a loop de nuestra plataforma.
+Hola! Cesar, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Diego, Te recomendamos Nosotros los nobles de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Moana de nuestra plataforma.
+Hola! Cesar, Te recomendamos Moana de nuestra plataforma.
+Hola! Diego, Te recomendamos Soul de nuestra plataforma.
+
+
+
+MES 10
+Erika, bienvenido a Amazon
+Bienvenido de vuelta a HBO, Erika
+Bienvenido de vuelta a Disney, Erika
+
+
+Hola! Alicia, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Bob, Te recomendamos morat de nuestra plataforma.
+Hola! Diego, Te recomendamos morat de nuestra plataforma.
+Hola! Cesar, Te recomendamos morat de nuestra plataforma.
+Hola! Diego, Te recomendamos peso pluma de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Cindy la regia de nuestra plataforma.
+Hola! Erika, Te recomendamos El infierno de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos La asesina del romance de nuestra plataforma.
+Hola! Diego, Te recomendamos La asesina del romance de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Cesar, Te recomendamos Nosotros los nobles de nuestra plataforma.
+Hola! Diego, Te recomendamos In a loop de nuestra plataforma.
+Hola! Erika, Te recomendamos In a loop de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Moana de nuestra plataforma.
+Hola! Cesar, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Diego, Te recomendamos Soul de nuestra plataforma.
+Hola! Erika, Te recomendamos Moana de nuestra plataforma.
+
+
+
+MES 11
+
+
+Hola! Alicia, Te recomendamos morat de nuestra plataforma.
+Hola! Bob, Te recomendamos adele de nuestra plataforma.
+Hola! Diego, Te recomendamos morat de nuestra plataforma.
+Hola! Cesar, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Diego, Te recomendamos adele de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Me gusta pero me asusta de nuestra plataforma.
+Hola! Erika, Te recomendamos El infierno de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Black mirror de nuestra plataforma.
+Hola! Diego, Te recomendamos La asesina del romance de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos In a loop de nuestra plataforma.
+Hola! Cesar, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Diego, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Erika, Te recomendamos In a loop de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Soul de nuestra plataforma.
+Hola! Cesar, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Diego, Te recomendamos Inside Out de nuestra plataforma.
+Hola! Erika, Te recomendamos Moana de nuestra plataforma.
+
+
+
+MES 12
+
+
+Hola! Alicia, Te recomendamos morat de nuestra plataforma.
+Hola! Bob, Te recomendamos adele de nuestra plataforma.
+Hola! Diego, Te recomendamos adele de nuestra plataforma.
+Hola! Cesar, Te recomendamos peso pluma de nuestra plataforma.
+Hola! Diego, Te recomendamos peso pluma de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos El infierno de nuestra plataforma.
+Hola! Erika, Te recomendamos Cindy la regia de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos La asesina del romance de nuestra plataforma.
+Hola! Diego, Te recomendamos Black mirror de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Ghost in a shell de nuestra plataforma.
+Hola! Cesar, Te recomendamos In a loop de nuestra plataforma.
+Hola! Diego, Te recomendamos In a loop de nuestra plataforma.
+Hola! Erika, Te recomendamos In a loop de nuestra plataforma.
+
+
+Hola! Alicia, Te recomendamos Moana de nuestra plataforma.
+Hola! Cesar, Te recomendamos Moana de nuestra plataforma.
+Hola! Diego, Te recomendamos Soul de nuestra plataforma.
+Hola! Erika, Te recomendamos Soul de nuestra plataforma.
+
+
