@@ -114,8 +114,8 @@ for month in range(1,13):
             netflix.detach(Fausto)
 
         case 7:
-            spotify.attach(Cesar, 0)
-            netflix.attach(Diego, 7)
+            spotify.attach(Cesar, 7)
+            netflix.attach(Diego, 1)
             spotify.attach(Diego,7)
             amazon.detach(Diego)
 

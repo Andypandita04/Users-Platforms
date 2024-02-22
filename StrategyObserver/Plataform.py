@@ -12,6 +12,7 @@ def write_on_file(texto, nombre_archivo):
 
 
 # Interfaz strategy
+        """
 class Strategy:
     #def __init__(self,name, amount, month_change):
     #    pass
@@ -21,6 +22,7 @@ class Strategy:
 
     def change_plan(self, cuenta):
         pass
+    """
 
 # Clase con todos los metodos strategy implementados
 class Strategy_Metodos:
@@ -40,7 +42,7 @@ class Strategy_Metodos:
             #Actualizo el dinero del cliente
             cuenta.observer.set_money(money_cuenta)
 
-            write_on_file(f"{cuenta.observer.name}, se realizo con éxito el pago del mes {cuenta.get_month()} en {self.name}", "log.txt")
+            write_on_file(f"{cuenta.observer.name}, se realizo con exito el pago de ${self.amount} del mes {cuenta.get_month()} en {self.name}", "log.txt")
             return True
         else:
             write_on_file(f"{cuenta.observer.name},no se pudo realizar el pago en {self.name}", "log.txt")
@@ -62,12 +64,18 @@ class Strategy_Metodos:
 
 
 
-class Inter_Spotify(Strategy):
+class Inter_Spotify():
     pass
    
 class StrategySpotifyPremium(Inter_Spotify, Strategy_Metodos):
     def __init__(self):
         super().__init__("Spotify Premium", 80, .5)
+
+    def execute(self,cuenta):
+        return super().execute(cuenta)
+    
+    def change_plan(self, cuenta):
+        return super().change_plan(cuenta)
     
 class StrategySpotifyFree(Inter_Spotify,Strategy_Metodos):
     def __init__(self):
@@ -78,7 +86,7 @@ class StrategySpotifyFree(Inter_Spotify,Strategy_Metodos):
 
 
 
-class Inter_Disney(Strategy):
+class Inter_Disney():
     pass
 
 class StrategyDisneyStart(Inter_Disney ,Strategy_Metodos):
@@ -93,7 +101,7 @@ class StrategyDisney(Inter_Disney ,Strategy_Metodos):
 
 
 
-class Inter_Netflix(Strategy):
+class Inter_Netflix():
     pass 
 
 class StrategyNetflix_uno(Inter_Netflix, Strategy_Metodos):
@@ -111,7 +119,7 @@ class StrategyNetflix_cuatro(Inter_Netflix, Strategy_Metodos):
 
 
 
-class Inter_HBO(Strategy):
+class Inter_HBO():
     pass 
 
 class StrategyHBOFree(Inter_HBO ,Strategy_Metodos):
@@ -125,7 +133,7 @@ class StrategyHBO(Inter_HBO ,Strategy_Metodos):
 
 
 
-class Inter_Amazon(Strategy):
+class Inter_Amazon():
     pass 
 
 class StrategyAmazon(Inter_Amazon ,Strategy_Metodos):
@@ -165,13 +173,13 @@ class cuentaObserver:
     def increase_month(self):
         self.month += 1
 
+    """
     def __eq__(self, cuenta2):
         if(self.observer == cuenta2.observer):
             return True
         else:
             return False 
-
-
+    """        
     
     
     def imprimir_cuenta(self):
@@ -211,75 +219,53 @@ class Platform(Subject):
         super().__init__()
         self.name = name
         self.recomendaciones = []
-        #self.metodos_de_pago = []
-        self.strategy = strategyy #Aqui lo de la interzas de cada plataforma
+        self.strategy = strategyy 
         self.banco = Banco(strategyy)
-        #self.metodos_de_pago.append(strategyy) 
-
-    def set_strategy(self, strategy):
-        self.strategy = strategy
     
-    def attachStrategy_metodos(self, strategy):
-        self.metodos_de_pago.append(strategy)
     
     def add_recommen(self, cadena):
         self.recomendaciones.append(cadena)
 
-
+    # Para cobrar a cada uno de los suscriptores
     def execute(self):
-        # Aquí llamamos al método execute de la estrategia
+
         listaclientes = self.observers  
+
         for cliente in listaclientes:
-
-
-            #Aqui banco
+            #Aqui  clase banco cobra
             banderaPago = self.banco.cobrar(cliente)
             
-
-
-          
-
-
-            # Bandera guarda un booleano, me dice si se pudo realizar el pago o no
-            banderaPago = self.strategy.execute(cliente)
-
-
-            #Si NO se realizo el pago, quito la suscripcion de mi cliente 
             if( banderaPago == False):
                 self.detach(cliente)
             else:
-
-                write_on_file(f"Hola! {cliente.observer.name}, Te recomendamos {rd.choice(self.recomendaciones[0])} de nuestra plataforma.", "log.txt")
-           # Bandera que guarda un booleano, me dice si ya cambia el metodo de pago 
-            # Solo aplica de la prueba free a premium
-            banderaPrueba = self.strategy.change_plan(cliente)
-            if(banderaPrueba ==True):
-
-                # Esta linea determina el nuevo plan de pago del cliente 
-                # Dado que las plataformas que tienen free (o primeros meses mas barato)
-                # y premium solo
-                # tienen esos 2 metodos de pago. Entonces si tiene el 
-                # tipo de free (n) se le asigna el (n +1). 
-                plan_nuevo = ((cliente.get_tipo_plan()) + 1)
-                #Aqui ya asigno el nuevo metodo de pago el cliente
-                cliente.set_tipo_plan(plan_nuevo)
+                write_on_file(f"\tHola! {cliente.observer.name}, Te recomendamos {rd.choice(self.recomendaciones[0])} de nuestra plataforma.", "log.txt")
+           
+           
+           # Banderapago dice si el cliente si realizo el pago
+           # Aqui checamos si es necesario cambiar de plan, sí lo es, lo cambiamos
+            self.banco.cambiar_plan_de_pago(cliente, banderaPago)
+           
+            
 
     ###Agrego una cuenta a mi lista de clientes
+                
     def attach(self, observer, plan):
-        
+ 
+        #Obtengo String con el nombre del plan          
+        nombrePlataforma = self.nombre_plan(plan)
+
         #Ceo una instancia de cuenta con un objeto observer y el tipo de plan
         cuenta = cuentaObserver(observer,plan)
-        
 
         if cuenta in self.exObserver:
             self.exObserver.remove(cuenta)
             #Lo agrego a observer (la lista de clientes)
             self.observers.append(cuenta)
-            write_on_file(f"Bienvenido de vuelta a {self.name}, {cuenta.observer.name}", "log.txt")
+            write_on_file(f"Bienvenido de vuelta a {nombrePlataforma}, {cuenta.observer.name}", "log.txt")
         else:
             #Los agrego a observer (la lista de clientes)
             self.observers.append(cuenta)
-            write_on_file(f"{self.observers[-1].observer.name}, bienvenido a {self.name}", "log.txt")        
+            write_on_file(f"{self.observers[-1].observer.name}, bienvenido a {nombrePlataforma}", "log.txt")        
     
     
     def detach(self, cuenta_observer):
@@ -291,6 +277,83 @@ class Platform(Subject):
                 # Actualizo los meses de la cuenta a cero
                 account.set_month(0)  
 
+    def nombre_plan(self,plan):
+        nombrePlataforma =  "CANAL 5"
+        def case1():
+            nombrePlataforma = "Netflix con un dispositivo"
+            return nombrePlataforma
+        def case2():
+            nombrePlataforma = "Netflix con dos dispositivos"
+            return nombrePlataforma
+        def case3():
+            nombrePlataforma = "Netflix con 4 dispositivos"
+            return nombrePlataforma
+        def case4():
+            nombrePlataforma = "Amazon"
+            return nombrePlataforma
+
+        def case5():
+            nombrePlataforma = "Amazon Premium"
+            return nombrePlataforma
+
+        def case6():
+            nombrePlataforma = "Spotify Free"
+            return nombrePlataforma
+
+        def case7():
+            nombrePlataforma = "Spotify Premium"
+            return nombrePlataforma
+
+        def case8():
+            nombrePlataforma = "Disney Start"
+            return nombrePlataforma
+
+        def case9():
+            nombrePlataforma = "Disney"
+            return nombrePlataforma
+
+        def case10():
+            nombrePlataforma = "HBO free"
+            return nombrePlataforma
+
+        def case11():
+            nombrePlataforma = "HBO"
+            return nombrePlataforma
+
+        def default():
+            print("Metodo de plan no encontrado")
+            return nombrePlataforma
+
+
+        def switch_case(case):
+            switch_dict = {
+                1: case1,
+                2: case2,
+                3: case3,
+                4: case4,
+                5: case5,
+                6: case6,
+                7: case7,
+                8: case8,
+                9: case9,
+                10: case10,
+                11: case11,
+            }
+            return switch_dict.get(plan, default)()
+        
+        nombrePlataforma = switch_case(plan)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 class Banco():
@@ -298,7 +361,33 @@ class Banco():
     def __init__(self, strategyPlataforma):
         self.strategy = strategyPlataforma #Tiene un objeto tipo Inter_Spotify o Inter_Amazon
 
+    # Metodo de que regres TRUE  si se realizo con exito el pago
+        # En caso contrario False
     def cobrar(self, cuenta):
+
+        self.definirMetodo_dePago(cuenta)
+        
+        bandera = self.strategy.execute(cuenta)
+        return bandera
+    
+    #Esta funcion el banco cambia el plan de pago del clientes
+    #return True si el cliente ya cambio de plan 
+    # return fale si el cliente no cambio de plan 
+    def cambiar_plan_de_pago(self, cuenta, banderaPago):
+        banderaCambio = False
+
+        #Si el cliente si realizo el pago y sigue suscrito, entonces checo si debo cambiarlo de plan
+        if(banderaPago==True):
+            banderaCambio = self.strategy.change_plan(cuenta)
+        
+        #si el cliente si cambia de plan, modifico el tipo_plan en su cuenta
+        if(banderaCambio==True):
+            plan_actual = cuenta.get_tipo_plan()
+            cuenta.set_tipo_plan(plan_actual +1)
+
+    
+    # Este metodo define objeto Strategy dependiendo del plan de la cuenta
+    def definirMetodo_dePago(self,cuenta):
         plan = cuenta.get_tipo_plan()
         def case1():
             self.strategy = StrategyNetflix_uno()
@@ -323,23 +412,25 @@ class Banco():
         def case11():
             self.strategy = StrategyHBO()
         def default():
-            print("Metodo de plan no encontrado")
-        def switch_case(plan):
-                switch_dict = {
-                    1: case1,
-                    2: case2,
-                    3: case3,
-                    4: case4,
-                    5: case5,
-                    6: case6,
-                    7: case7,
-                    8: case8,
-                    9: case9,
-                    10: case10,
-                    11: case11,
-                }
-        bandera = self.strategy.execute(cuenta)
-        return bandera
+            print(f" Error de Banco : Metodo de plan no encontrado <<{cuenta.get_tipo_plan()}>> de {cuenta.observer.get_name()}" )
+        def switch_case(case):
+            switch_dict = {
+                1: case1,
+                2: case2,
+                3: case3,
+                4: case4,
+                5: case5,
+                6: case6,
+                7: case7,
+                8: case8,
+                9: case9,
+                10: case10,
+                11: case11,
+            }
+            return switch_dict.get(case, default)()
+        switch_case(plan)
+
+        
 
           
 

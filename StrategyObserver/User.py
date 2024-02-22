@@ -23,13 +23,5 @@ class User(Observer):
     ###################
     def set_money(self, num):
         self.money = num
-    
-    """
-    def pay(self, price, platform):
-        if self.money - price < 0:
-            platform.detach(self)
-        else:
-            self.money = self.money - price
-    """
-
+ 
         
