@@ -1,4 +1,4 @@
-
+import random as rd
 def write_on_file(texto, nombre_archivo):
     # Asegura que el nombre del archivo tenga la extensión .txt
     if not nombre_archivo.endswith(".txt"):
@@ -106,6 +106,7 @@ class cuentaObserver:
         self.observer = observer
         self.month = 0
         self.tipo_plan = tipo_plan
+        self.notificacion = self.getRes(self, str) 
 
     def get_user(self):
         return self.observer
@@ -125,7 +126,9 @@ class cuentaObserver:
     def increase_month(self):
         self.month += 1
 
-
+    def getRes(self, str):
+        
+        return result
     
     
     def imprimir_cuenta(self):
@@ -239,6 +242,23 @@ class Platform(Subject):
                 write_on_file(f"{self.name} mensaje : Lamentamos que nos dejes {cuenta_observer.name}", 'log.txt')
                 # Actualizo los meses de la cuenta a cero
                 account.set_month(0)  
+                
 
-          
+    def notify(self):
+        for cliente in self.observers:
+            plan_cliente = cliente.get_tipo_plan()
+            self.set_strategy(self.metodos_de_pago[plan_cliente])
+            banderaPago = self.strategy.execute(cliente)
+            
+            if not banderaPago:
+                self.detach(cliente)
+                print(f"{cliente.observer.name} Pago declinado, se cancelado la suscripcion a {self.name}")
+            else:
+                recomendacion = random.choice(self.recomendaciones[0])
+                write_on_file(f"Hola! {cliente.observer.name}, Te recomendamos {recomendacion} de nuestra.", "log.txt")
+                print(f"{cliente.observer.name} realizó el pago con exito para {self.name}")
 
+            banderaPrueba = self.strategy.change_plan(cliente)
+            if banderaPrueba:
+                plan_nuevo = (cliente.get_tipo_plan() + 1) % 2
+                cliente.set_tipo_plan(plan_nuevo)

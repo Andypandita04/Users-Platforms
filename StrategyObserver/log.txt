@@ -1,0 +1,2454 @@
+Alicia, bienvenido a Spotify Premium
+Alicia, bienvenido a Amazon Premium
+Alicia, bienvenido a Netflix para 4 dispositivos
+Alicia, bienvenido a HBO Free
+Alicia, bienvenido a Disney Start
+Bob, bienvenido a Spotify Premium
+Bob, bienvenido a Amazon Premium
+Bob, bienvenido a Netflix para un dispositivo
+Bob, bienvenido a HBO Free
+Bob, bienvenido a Disney Start
+Cesar, bienvenido a Disney Start
+Cesar, bienvenido a HBO Free
+Diego, bienvenido a HBO Free
+Diego, bienvenido a Amazon
+Diego, bienvenido a Spotify Free
+Erika, bienvenido a Netflix para 4 dispositivos
+Erika, bienvenido a Spotify Free
+Erika, bienvenido a HBO Free
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+MES 1
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 1 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 1 en Spotify Free
+Erika, se realizo con éxito el pago del mes 1 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 1 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 1 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 1 en HBO Free
+Bob, se realizo con éxito el pago del mes 1 en HBO Free
+Cesar, se realizo con éxito el pago del mes 1 en HBO Free
+Diego, se realizo con éxito el pago del mes 1 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Disney Start
+Bob, se realizo con éxito el pago del mes 1 en Disney Start
+Cesar, se realizo con éxito el pago del mes 1 en Disney Start
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 2
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 2 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 2 en Spotify Free
+Erika, se realizo con éxito el pago del mes 2 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 2 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 2 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 2 en HBO Free
+Bob, se realizo con éxito el pago del mes 2 en HBO Free
+Cesar, se realizo con éxito el pago del mes 2 en HBO Free
+Diego, se realizo con éxito el pago del mes 2 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+Fausto, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Disney Start
+Bob, se realizo con éxito el pago del mes 2 en Disney Start
+Cesar, se realizo con éxito el pago del mes 2 en Disney Start
+Fausto, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 3
+Disney mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Erika
+Erika, bienvenido a Disney Start
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Fausto, bienvenido a Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 3 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Diego, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Erika, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 3 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 3 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Alicia, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Cesar, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Diego, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Diego, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Alicia, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Cesar, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 4
+Netflix mensaje : Lamentamos que nos dejes Bob
+Amazon mensaje : Lamentamos que nos dejes Bob
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 4 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 4 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 4 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 4 en HBO Free
+Cesar, se realizo con éxito el pago del mes 4 en HBO Free
+Diego, se realizo con éxito el pago del mes 4 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Disney
+Cesar, se realizo con éxito el pago del mes 4 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 5
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 5 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 5 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 5 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 5 en HBO Free
+Cesar, se realizo con éxito el pago del mes 5 en HBO Free
+Diego, se realizo con éxito el pago del mes 5 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Disney
+Cesar, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Erika, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 6
+Diego, bienvenido a Disney Start
+Netflix mensaje : Lamentamos que nos dejes Erika
+Spotify mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Netflix mensaje : Lamentamos que nos dejes Fausto
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 6 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 6 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 6 en HBO Free
+Cesar, se realizo con éxito el pago del mes 6 en HBO Free
+Diego, se realizo con éxito el pago del mes 6 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Disney
+Cesar, se realizo con éxito el pago del mes 6 en Disney
+Diego, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 7
+Cesar, bienvenido a Spotify Premium
+Diego, bienvenido a Netflix para un dispositivo
+Amazon mensaje : Lamentamos que nos dejes Diego
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 7 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 7 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 1 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 7 en HBO Free
+Cesar, se realizo con éxito el pago del mes 7 en HBO Free
+Diego, se realizo con éxito el pago del mes 7 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Disney
+Cesar, se realizo con éxito el pago del mes 7 en Disney
+Diego, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 8
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 8 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 8 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 2 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 8 en HBO Free
+Cesar, se realizo con éxito el pago del mes 8 en HBO Free
+Diego, se realizo con éxito el pago del mes 8 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Disney
+Cesar, se realizo con éxito el pago del mes 8 en Disney
+Diego, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Diego, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+
+
+
+MES 9
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 9 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 9 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 3 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 9 en HBO Free
+Cesar, se realizo con éxito el pago del mes 9 en HBO Free
+Diego, se realizo con éxito el pago del mes 9 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Disney
+Cesar, se realizo con éxito el pago del mes 9 en Disney
+Diego, se realizo con éxito el pago del mes 4 en Disney
+
+
+
+MES 10
+Erika, bienvenido a Amazon Premium
+Erika, bienvenido a HBO Free
+Erika, bienvenido a Disney
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 10 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 10 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 1 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 4 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 10 en HBO Free
+Cesar, se realizo con éxito el pago del mes 10 en HBO Free
+Diego, se realizo con éxito el pago del mes 10 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Disney
+Cesar, se realizo con éxito el pago del mes 10 en Disney
+Diego, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 1 en Disney
+
+
+
+MES 11
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 11 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 11 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 2 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 5 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 11 en HBO Free
+Cesar, se realizo con éxito el pago del mes 11 en HBO Free
+Diego, se realizo con éxito el pago del mes 11 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Disney
+Cesar, se realizo con éxito el pago del mes 11 en Disney
+Diego, se realizo con éxito el pago del mes 6 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney
+
+
+
+MES 12
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 12 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 12 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 3 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 6 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 12 en HBO Free
+Cesar, se realizo con éxito el pago del mes 12 en HBO Free
+Diego, se realizo con éxito el pago del mes 12 en HBO Free
+Erika, se realizo con éxito el pago del mes 3 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Disney
+Cesar, se realizo con éxito el pago del mes 12 en Disney
+Diego, se realizo con éxito el pago del mes 7 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney
+
+
+Alicia, bienvenido a Spotify Premium
+Alicia, bienvenido a Amazon Premium
+Alicia, bienvenido a Netflix para 4 dispositivos
+Alicia, bienvenido a HBO Free
+Alicia, bienvenido a Disney Start
+Bob, bienvenido a Spotify Premium
+Bob, bienvenido a Amazon Premium
+Bob, bienvenido a Netflix para un dispositivo
+Bob, bienvenido a HBO Free
+Bob, bienvenido a Disney Start
+Cesar, bienvenido a Disney Start
+Cesar, bienvenido a HBO Free
+Diego, bienvenido a HBO Free
+Diego, bienvenido a Amazon
+Diego, bienvenido a Spotify Free
+Erika, bienvenido a Netflix para 4 dispositivos
+Erika, bienvenido a Spotify Free
+Erika, bienvenido a HBO Free
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+MES 1
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 1 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 1 en Spotify Free
+Erika, se realizo con éxito el pago del mes 1 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 1 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 1 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 1 en HBO Free
+Bob, se realizo con éxito el pago del mes 1 en HBO Free
+Cesar, se realizo con éxito el pago del mes 1 en HBO Free
+Diego, se realizo con éxito el pago del mes 1 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Disney Start
+Bob, se realizo con éxito el pago del mes 1 en Disney Start
+Cesar, se realizo con éxito el pago del mes 1 en Disney Start
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 2
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 2 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 2 en Spotify Free
+Erika, se realizo con éxito el pago del mes 2 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 2 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 2 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 2 en HBO Free
+Bob, se realizo con éxito el pago del mes 2 en HBO Free
+Cesar, se realizo con éxito el pago del mes 2 en HBO Free
+Diego, se realizo con éxito el pago del mes 2 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+Fausto, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Disney Start
+Bob, se realizo con éxito el pago del mes 2 en Disney Start
+Cesar, se realizo con éxito el pago del mes 2 en Disney Start
+Fausto, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 3
+Disney mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Erika
+Erika, bienvenido a Disney Start
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Fausto, bienvenido a Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 3 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Diego, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Erika, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 3 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 3 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Alicia, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Cesar, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Diego, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Diego, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Alicia, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Cesar, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 4
+Netflix mensaje : Lamentamos que nos dejes Bob
+Amazon mensaje : Lamentamos que nos dejes Bob
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 4 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 4 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 4 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 4 en HBO Free
+Cesar, se realizo con éxito el pago del mes 4 en HBO Free
+Diego, se realizo con éxito el pago del mes 4 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Disney
+Cesar, se realizo con éxito el pago del mes 4 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 5
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 5 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 5 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 5 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 5 en HBO Free
+Cesar, se realizo con éxito el pago del mes 5 en HBO Free
+Diego, se realizo con éxito el pago del mes 5 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Disney
+Cesar, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Erika, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 6
+Diego, bienvenido a Disney Start
+Netflix mensaje : Lamentamos que nos dejes Erika
+Spotify mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Netflix mensaje : Lamentamos que nos dejes Fausto
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 6 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 6 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 6 en HBO Free
+Cesar, se realizo con éxito el pago del mes 6 en HBO Free
+Diego, se realizo con éxito el pago del mes 6 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Disney
+Cesar, se realizo con éxito el pago del mes 6 en Disney
+Diego, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 7
+Cesar, bienvenido a Spotify Premium
+Diego, bienvenido a Netflix para un dispositivo
+Amazon mensaje : Lamentamos que nos dejes Diego
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 7 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 7 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 1 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 7 en HBO Free
+Cesar, se realizo con éxito el pago del mes 7 en HBO Free
+Diego, se realizo con éxito el pago del mes 7 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Disney
+Cesar, se realizo con éxito el pago del mes 7 en Disney
+Diego, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 8
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 8 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 8 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 2 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 8 en HBO Free
+Cesar, se realizo con éxito el pago del mes 8 en HBO Free
+Diego, se realizo con éxito el pago del mes 8 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Disney
+Cesar, se realizo con éxito el pago del mes 8 en Disney
+Diego, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Diego, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+
+
+
+MES 9
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 9 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 9 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 3 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 9 en HBO Free
+Cesar, se realizo con éxito el pago del mes 9 en HBO Free
+Diego, se realizo con éxito el pago del mes 9 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Disney
+Cesar, se realizo con éxito el pago del mes 9 en Disney
+Diego, se realizo con éxito el pago del mes 4 en Disney
+
+
+
+MES 10
+Erika, bienvenido a Amazon Premium
+Erika, bienvenido a HBO Free
+Erika, bienvenido a Disney
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 10 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 10 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 1 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 4 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 10 en HBO Free
+Cesar, se realizo con éxito el pago del mes 10 en HBO Free
+Diego, se realizo con éxito el pago del mes 10 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Disney
+Cesar, se realizo con éxito el pago del mes 10 en Disney
+Diego, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 1 en Disney
+
+
+
+MES 11
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 11 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 11 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 2 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 5 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 11 en HBO Free
+Cesar, se realizo con éxito el pago del mes 11 en HBO Free
+Diego, se realizo con éxito el pago del mes 11 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Disney
+Cesar, se realizo con éxito el pago del mes 11 en Disney
+Diego, se realizo con éxito el pago del mes 6 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney
+
+
+
+MES 12
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 12 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 12 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 3 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 6 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 12 en HBO Free
+Cesar, se realizo con éxito el pago del mes 12 en HBO Free
+Diego, se realizo con éxito el pago del mes 12 en HBO Free
+Erika, se realizo con éxito el pago del mes 3 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Disney
+Cesar, se realizo con éxito el pago del mes 12 en Disney
+Diego, se realizo con éxito el pago del mes 7 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney
+
+
+Alicia, bienvenido a Spotify Premium
+Alicia, bienvenido a Amazon Premium
+Alicia, bienvenido a Netflix para 4 dispositivos
+Alicia, bienvenido a HBO Free
+Alicia, bienvenido a Disney Start
+Bob, bienvenido a Spotify Premium
+Bob, bienvenido a Amazon Premium
+Bob, bienvenido a Netflix para un dispositivo
+Bob, bienvenido a HBO Free
+Bob, bienvenido a Disney Start
+Cesar, bienvenido a Disney Start
+Cesar, bienvenido a HBO Free
+Diego, bienvenido a HBO Free
+Diego, bienvenido a Amazon
+Diego, bienvenido a Spotify Free
+Erika, bienvenido a Netflix para 4 dispositivos
+Erika, bienvenido a Spotify Free
+Erika, bienvenido a HBO Free
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+MES 1
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 1 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 1 en Spotify Free
+Erika, se realizo con éxito el pago del mes 1 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 1 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 1 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 1 en HBO Free
+Bob, se realizo con éxito el pago del mes 1 en HBO Free
+Cesar, se realizo con éxito el pago del mes 1 en HBO Free
+Diego, se realizo con éxito el pago del mes 1 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Disney Start
+Bob, se realizo con éxito el pago del mes 1 en Disney Start
+Cesar, se realizo con éxito el pago del mes 1 en Disney Start
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 2
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 2 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 2 en Spotify Free
+Erika, se realizo con éxito el pago del mes 2 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 2 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 2 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 2 en HBO Free
+Bob, se realizo con éxito el pago del mes 2 en HBO Free
+Cesar, se realizo con éxito el pago del mes 2 en HBO Free
+Diego, se realizo con éxito el pago del mes 2 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+Fausto, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Disney Start
+Bob, se realizo con éxito el pago del mes 2 en Disney Start
+Cesar, se realizo con éxito el pago del mes 2 en Disney Start
+Fausto, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 3
+Disney mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Erika
+Erika, bienvenido a Disney Start
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Fausto, bienvenido a Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 3 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Diego, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Erika, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 3 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 3 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Alicia, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Cesar, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Diego, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Diego, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Alicia, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Cesar, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 4
+Netflix mensaje : Lamentamos que nos dejes Bob
+Amazon mensaje : Lamentamos que nos dejes Bob
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 4 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 4 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 4 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 4 en HBO Free
+Cesar, se realizo con éxito el pago del mes 4 en HBO Free
+Diego, se realizo con éxito el pago del mes 4 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Disney
+Cesar, se realizo con éxito el pago del mes 4 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 5
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 5 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 5 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 5 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 5 en HBO Free
+Cesar, se realizo con éxito el pago del mes 5 en HBO Free
+Diego, se realizo con éxito el pago del mes 5 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Disney
+Cesar, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Erika, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 6
+Diego, bienvenido a Disney Start
+Netflix mensaje : Lamentamos que nos dejes Erika
+Spotify mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Netflix mensaje : Lamentamos que nos dejes Fausto
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 6 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 6 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 6 en HBO Free
+Cesar, se realizo con éxito el pago del mes 6 en HBO Free
+Diego, se realizo con éxito el pago del mes 6 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Disney
+Cesar, se realizo con éxito el pago del mes 6 en Disney
+Diego, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 7
+Cesar, bienvenido a Spotify Premium
+Diego, bienvenido a Netflix para un dispositivo
+Amazon mensaje : Lamentamos que nos dejes Diego
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 7 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 7 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 1 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 7 en HBO Free
+Cesar, se realizo con éxito el pago del mes 7 en HBO Free
+Diego, se realizo con éxito el pago del mes 7 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Disney
+Cesar, se realizo con éxito el pago del mes 7 en Disney
+Diego, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 8
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 8 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 8 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 2 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 8 en HBO Free
+Cesar, se realizo con éxito el pago del mes 8 en HBO Free
+Diego, se realizo con éxito el pago del mes 8 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Disney
+Cesar, se realizo con éxito el pago del mes 8 en Disney
+Diego, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Diego, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+
+
+
+MES 9
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 9 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 9 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 3 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 9 en HBO Free
+Cesar, se realizo con éxito el pago del mes 9 en HBO Free
+Diego, se realizo con éxito el pago del mes 9 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Disney
+Cesar, se realizo con éxito el pago del mes 9 en Disney
+Diego, se realizo con éxito el pago del mes 4 en Disney
+
+
+
+MES 10
+Erika, bienvenido a Amazon Premium
+Erika, bienvenido a HBO Free
+Erika, bienvenido a Disney
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 10 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 10 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 1 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 4 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 10 en HBO Free
+Cesar, se realizo con éxito el pago del mes 10 en HBO Free
+Diego, se realizo con éxito el pago del mes 10 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Disney
+Cesar, se realizo con éxito el pago del mes 10 en Disney
+Diego, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 1 en Disney
+
+
+
+MES 11
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 11 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 11 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 2 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 5 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 11 en HBO Free
+Cesar, se realizo con éxito el pago del mes 11 en HBO Free
+Diego, se realizo con éxito el pago del mes 11 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Disney
+Cesar, se realizo con éxito el pago del mes 11 en Disney
+Diego, se realizo con éxito el pago del mes 6 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney
+
+
+
+MES 12
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 12 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 12 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 3 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 6 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 12 en HBO Free
+Cesar, se realizo con éxito el pago del mes 12 en HBO Free
+Diego, se realizo con éxito el pago del mes 12 en HBO Free
+Erika, se realizo con éxito el pago del mes 3 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Disney
+Cesar, se realizo con éxito el pago del mes 12 en Disney
+Diego, se realizo con éxito el pago del mes 7 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney
+
+
+Alicia, bienvenido a Spotify Premium
+Alicia, bienvenido a Amazon Premium
+Alicia, bienvenido a Netflix para 4 dispositivos
+Alicia, bienvenido a HBO Free
+Alicia, bienvenido a Disney Start
+Bob, bienvenido a Spotify Premium
+Bob, bienvenido a Amazon Premium
+Bob, bienvenido a Netflix para un dispositivo
+Bob, bienvenido a HBO Free
+Bob, bienvenido a Disney Start
+Cesar, bienvenido a Disney Start
+Cesar, bienvenido a HBO Free
+Diego, bienvenido a HBO Free
+Diego, bienvenido a Amazon
+Diego, bienvenido a Spotify Free
+Erika, bienvenido a Netflix para 4 dispositivos
+Erika, bienvenido a Spotify Free
+Erika, bienvenido a HBO Free
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+MES 1
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 1 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 1 en Spotify Free
+Erika, se realizo con éxito el pago del mes 1 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 1 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 1 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 1 en HBO Free
+Bob, se realizo con éxito el pago del mes 1 en HBO Free
+Cesar, se realizo con éxito el pago del mes 1 en HBO Free
+Diego, se realizo con éxito el pago del mes 1 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Disney Start
+Bob, se realizo con éxito el pago del mes 1 en Disney Start
+Cesar, se realizo con éxito el pago del mes 1 en Disney Start
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 2
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 2 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 2 en Spotify Free
+Erika, se realizo con éxito el pago del mes 2 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 2 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 2 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 2 en HBO Free
+Bob, se realizo con éxito el pago del mes 2 en HBO Free
+Cesar, se realizo con éxito el pago del mes 2 en HBO Free
+Diego, se realizo con éxito el pago del mes 2 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+Fausto, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Disney Start
+Bob, se realizo con éxito el pago del mes 2 en Disney Start
+Cesar, se realizo con éxito el pago del mes 2 en Disney Start
+Fausto, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 3
+Disney mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Erika
+Erika, bienvenido a Disney Start
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Fausto, bienvenido a Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 3 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Diego, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Erika, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 3 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 3 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Alicia, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Cesar, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Diego, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Diego, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Alicia, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Cesar, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 4
+Netflix mensaje : Lamentamos que nos dejes Bob
+Amazon mensaje : Lamentamos que nos dejes Bob
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 4 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 4 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 4 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 4 en HBO Free
+Cesar, se realizo con éxito el pago del mes 4 en HBO Free
+Diego, se realizo con éxito el pago del mes 4 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Disney
+Cesar, se realizo con éxito el pago del mes 4 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 5
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 5 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 5 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 5 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 5 en HBO Free
+Cesar, se realizo con éxito el pago del mes 5 en HBO Free
+Diego, se realizo con éxito el pago del mes 5 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Disney
+Cesar, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Erika, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 6
+Diego, bienvenido a Disney Start
+Netflix mensaje : Lamentamos que nos dejes Erika
+Spotify mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Netflix mensaje : Lamentamos que nos dejes Fausto
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 6 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 6 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 6 en HBO Free
+Cesar, se realizo con éxito el pago del mes 6 en HBO Free
+Diego, se realizo con éxito el pago del mes 6 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Disney
+Cesar, se realizo con éxito el pago del mes 6 en Disney
+Diego, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 7
+Cesar, bienvenido a Spotify Premium
+Diego, bienvenido a Netflix para un dispositivo
+Amazon mensaje : Lamentamos que nos dejes Diego
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 7 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 7 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 1 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 7 en HBO Free
+Cesar, se realizo con éxito el pago del mes 7 en HBO Free
+Diego, se realizo con éxito el pago del mes 7 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Disney
+Cesar, se realizo con éxito el pago del mes 7 en Disney
+Diego, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 8
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 8 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 8 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 2 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 8 en HBO Free
+Cesar, se realizo con éxito el pago del mes 8 en HBO Free
+Diego, se realizo con éxito el pago del mes 8 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Disney
+Cesar, se realizo con éxito el pago del mes 8 en Disney
+Diego, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Diego, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+
+
+
+MES 9
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 9 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 9 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 3 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 9 en HBO Free
+Cesar, se realizo con éxito el pago del mes 9 en HBO Free
+Diego, se realizo con éxito el pago del mes 9 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Disney
+Cesar, se realizo con éxito el pago del mes 9 en Disney
+Diego, se realizo con éxito el pago del mes 4 en Disney
+
+
+
+MES 10
+Erika, bienvenido a Amazon Premium
+Erika, bienvenido a HBO Free
+Erika, bienvenido a Disney
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 10 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 10 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 1 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 4 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 10 en HBO Free
+Cesar, se realizo con éxito el pago del mes 10 en HBO Free
+Diego, se realizo con éxito el pago del mes 10 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Disney
+Cesar, se realizo con éxito el pago del mes 10 en Disney
+Diego, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 1 en Disney
+
+
+
+MES 11
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 11 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 11 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 2 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 5 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 11 en HBO Free
+Cesar, se realizo con éxito el pago del mes 11 en HBO Free
+Diego, se realizo con éxito el pago del mes 11 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Disney
+Cesar, se realizo con éxito el pago del mes 11 en Disney
+Diego, se realizo con éxito el pago del mes 6 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney
+
+
+
+MES 12
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 12 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 12 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 3 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 6 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 12 en HBO Free
+Cesar, se realizo con éxito el pago del mes 12 en HBO Free
+Diego, se realizo con éxito el pago del mes 12 en HBO Free
+Erika, se realizo con éxito el pago del mes 3 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Disney
+Cesar, se realizo con éxito el pago del mes 12 en Disney
+Diego, se realizo con éxito el pago del mes 7 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney
+
+
+Alicia, bienvenido a Spotify Premium
+Alicia, bienvenido a Amazon Premium
+Alicia, bienvenido a Netflix para 4 dispositivos
+Alicia, bienvenido a HBO Free
+Alicia, bienvenido a Disney Start
+Bob, bienvenido a Spotify Premium
+Bob, bienvenido a Amazon Premium
+Bob, bienvenido a Netflix para un dispositivo
+Bob, bienvenido a HBO Free
+Bob, bienvenido a Disney Start
+Cesar, bienvenido a Disney Start
+Cesar, bienvenido a HBO Free
+Diego, bienvenido a HBO Free
+Diego, bienvenido a Amazon
+Diego, bienvenido a Spotify Free
+Erika, bienvenido a Netflix para 4 dispositivos
+Erika, bienvenido a Spotify Free
+Erika, bienvenido a HBO Free
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+MES 1
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 1 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 1 en Spotify Free
+Erika, se realizo con éxito el pago del mes 1 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 1 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 1 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 1 en HBO Free
+Bob, se realizo con éxito el pago del mes 1 en HBO Free
+Cesar, se realizo con éxito el pago del mes 1 en HBO Free
+Diego, se realizo con éxito el pago del mes 1 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Disney Start
+Bob, se realizo con éxito el pago del mes 1 en Disney Start
+Cesar, se realizo con éxito el pago del mes 1 en Disney Start
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 2
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 2 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 2 en Spotify Free
+Erika, se realizo con éxito el pago del mes 2 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 2 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 2 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 2 en HBO Free
+Bob, se realizo con éxito el pago del mes 2 en HBO Free
+Cesar, se realizo con éxito el pago del mes 2 en HBO Free
+Diego, se realizo con éxito el pago del mes 2 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+Fausto, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Disney Start
+Bob, se realizo con éxito el pago del mes 2 en Disney Start
+Cesar, se realizo con éxito el pago del mes 2 en Disney Start
+Fausto, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 3
+Disney mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Erika
+Erika, bienvenido a Disney Start
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Fausto, bienvenido a Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 3 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Diego, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Erika, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 3 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 3 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Alicia, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Cesar, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Diego, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Diego, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Alicia, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Cesar, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 4
+Netflix mensaje : Lamentamos que nos dejes Bob
+Amazon mensaje : Lamentamos que nos dejes Bob
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 4 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 4 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 4 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 4 en HBO Free
+Cesar, se realizo con éxito el pago del mes 4 en HBO Free
+Diego, se realizo con éxito el pago del mes 4 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Disney
+Cesar, se realizo con éxito el pago del mes 4 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 5
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 5 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 5 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 5 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 5 en HBO Free
+Cesar, se realizo con éxito el pago del mes 5 en HBO Free
+Diego, se realizo con éxito el pago del mes 5 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Disney
+Cesar, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Erika, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 6
+Diego, bienvenido a Disney Start
+Netflix mensaje : Lamentamos que nos dejes Erika
+Spotify mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Netflix mensaje : Lamentamos que nos dejes Fausto
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 6 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 6 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 6 en HBO Free
+Cesar, se realizo con éxito el pago del mes 6 en HBO Free
+Diego, se realizo con éxito el pago del mes 6 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Disney
+Cesar, se realizo con éxito el pago del mes 6 en Disney
+Diego, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 7
+Cesar, bienvenido a Spotify Premium
+Diego, bienvenido a Netflix para un dispositivo
+Amazon mensaje : Lamentamos que nos dejes Diego
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 7 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 7 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 1 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 7 en HBO Free
+Cesar, se realizo con éxito el pago del mes 7 en HBO Free
+Diego, se realizo con éxito el pago del mes 7 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Disney
+Cesar, se realizo con éxito el pago del mes 7 en Disney
+Diego, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 8
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 8 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 8 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 2 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 8 en HBO Free
+Cesar, se realizo con éxito el pago del mes 8 en HBO Free
+Diego, se realizo con éxito el pago del mes 8 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Disney
+Cesar, se realizo con éxito el pago del mes 8 en Disney
+Diego, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Diego, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+
+
+
+MES 9
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 9 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 9 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 3 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 9 en HBO Free
+Cesar, se realizo con éxito el pago del mes 9 en HBO Free
+Diego, se realizo con éxito el pago del mes 9 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Disney
+Cesar, se realizo con éxito el pago del mes 9 en Disney
+Diego, se realizo con éxito el pago del mes 4 en Disney
+
+
+
+MES 10
+Erika, bienvenido a Amazon Premium
+Erika, bienvenido a HBO Free
+Erika, bienvenido a Disney
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 10 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 10 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 1 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 4 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 10 en HBO Free
+Cesar, se realizo con éxito el pago del mes 10 en HBO Free
+Diego, se realizo con éxito el pago del mes 10 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Disney
+Cesar, se realizo con éxito el pago del mes 10 en Disney
+Diego, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 1 en Disney
+
+
+
+MES 11
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 11 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 11 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 2 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 5 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 11 en HBO Free
+Cesar, se realizo con éxito el pago del mes 11 en HBO Free
+Diego, se realizo con éxito el pago del mes 11 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Disney
+Cesar, se realizo con éxito el pago del mes 11 en Disney
+Diego, se realizo con éxito el pago del mes 6 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney
+
+
+
+MES 12
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 12 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 12 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 3 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 6 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 12 en HBO Free
+Cesar, se realizo con éxito el pago del mes 12 en HBO Free
+Diego, se realizo con éxito el pago del mes 12 en HBO Free
+Erika, se realizo con éxito el pago del mes 3 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Disney
+Cesar, se realizo con éxito el pago del mes 12 en Disney
+Diego, se realizo con éxito el pago del mes 7 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney
+
+
+Alicia, bienvenido a Spotify Premium
+Alicia, bienvenido a Amazon Premium
+Alicia, bienvenido a Netflix para 4 dispositivos
+Alicia, bienvenido a HBO Free
+Alicia, bienvenido a Disney Start
+Bob, bienvenido a Spotify Premium
+Bob, bienvenido a Amazon Premium
+Bob, bienvenido a Netflix para un dispositivo
+Bob, bienvenido a HBO Free
+Bob, bienvenido a Disney Start
+Cesar, bienvenido a Disney Start
+Cesar, bienvenido a HBO Free
+Diego, bienvenido a HBO Free
+Diego, bienvenido a Amazon
+Diego, bienvenido a Spotify Free
+Erika, bienvenido a Netflix para 4 dispositivos
+Erika, bienvenido a Spotify Free
+Erika, bienvenido a HBO Free
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+MES 1
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 1 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 1 en Spotify Free
+Erika, se realizo con éxito el pago del mes 1 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 1 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 1 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 1 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 1 en HBO Free
+Bob, se realizo con éxito el pago del mes 1 en HBO Free
+Cesar, se realizo con éxito el pago del mes 1 en HBO Free
+Diego, se realizo con éxito el pago del mes 1 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 1 en Disney Start
+Bob, se realizo con éxito el pago del mes 1 en Disney Start
+Cesar, se realizo con éxito el pago del mes 1 en Disney Start
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 2
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 2 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 2 en Spotify Free
+Erika, se realizo con éxito el pago del mes 2 en Spotify Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 2 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 2 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 2 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 2 en HBO Free
+Bob, se realizo con éxito el pago del mes 2 en HBO Free
+Cesar, se realizo con éxito el pago del mes 2 en HBO Free
+Diego, se realizo con éxito el pago del mes 2 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+Fausto, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 2 en Disney Start
+Bob, se realizo con éxito el pago del mes 2 en Disney Start
+Cesar, se realizo con éxito el pago del mes 2 en Disney Start
+Fausto, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 3
+Disney mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Bob
+HBO mensaje : Lamentamos que nos dejes Erika
+Erika, bienvenido a Disney Start
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Fausto, bienvenido a Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 3 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Diego, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 3 en Spotify Free
+------AVISO :Erika, ya pasaste 3 meses en Spotify Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Amazon Premium
+Bob, se realizo con éxito el pago del mes 3 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 3 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Bob, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+Erika, se realizo con éxito el pago del mes 3 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Alicia, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Cesar, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+Diego, se realizo con éxito el pago del mes 3 en HBO Free
+------AVISO :Diego, ya pasaste 3 meses en HBO Free, te vamos a cambiar de plan.
+
+
+Alicia, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Alicia, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Cesar, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Cesar, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Erika, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 4
+Netflix mensaje : Lamentamos que nos dejes Bob
+Amazon mensaje : Lamentamos que nos dejes Bob
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 4 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 4 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 4 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 4 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 4 en HBO Free
+Cesar, se realizo con éxito el pago del mes 4 en HBO Free
+Diego, se realizo con éxito el pago del mes 4 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 4 en Disney
+Cesar, se realizo con éxito el pago del mes 4 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 5
+Fausto, bienvenido a Disney Start
+Fausto, bienvenido a HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 5 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 5 en Spotify Premium
+Erika, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 5 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Erika, se realizo con éxito el pago del mes 5 en Netflix para 4 dispositivos
+Fausto, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 5 en HBO Free
+Cesar, se realizo con éxito el pago del mes 5 en HBO Free
+Diego, se realizo con éxito el pago del mes 5 en HBO Free
+Fausto, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 5 en Disney
+Cesar, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Erika, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+Fausto, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 6
+Diego, bienvenido a Disney Start
+Netflix mensaje : Lamentamos que nos dejes Erika
+Spotify mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Erika
+Disney mensaje : Lamentamos que nos dejes Fausto
+HBO mensaje : Lamentamos que nos dejes Fausto
+Netflix mensaje : Lamentamos que nos dejes Fausto
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 6 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Amazon Premium
+Diego, se realizo con éxito el pago del mes 6 en Amazon
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Netflix para 4 dispositivos
+
+
+Alicia, se realizo con éxito el pago del mes 6 en HBO Free
+Cesar, se realizo con éxito el pago del mes 6 en HBO Free
+Diego, se realizo con éxito el pago del mes 6 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 6 en Disney
+Cesar, se realizo con éxito el pago del mes 6 en Disney
+Diego, se realizo con éxito el pago del mes 1 en Disney Start
+
+
+
+MES 7
+Cesar, bienvenido a Spotify Premium
+Diego, bienvenido a Netflix para un dispositivo
+Amazon mensaje : Lamentamos que nos dejes Diego
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 7 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 7 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 1 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 1 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 7 en HBO Free
+Cesar, se realizo con éxito el pago del mes 7 en HBO Free
+Diego, se realizo con éxito el pago del mes 7 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 7 en Disney
+Cesar, se realizo con éxito el pago del mes 7 en Disney
+Diego, se realizo con éxito el pago del mes 2 en Disney Start
+
+
+
+MES 8
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 8 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 8 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 2 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 2 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 8 en HBO Free
+Cesar, se realizo con éxito el pago del mes 8 en HBO Free
+Diego, se realizo con éxito el pago del mes 8 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 8 en Disney
+Cesar, se realizo con éxito el pago del mes 8 en Disney
+Diego, se realizo con éxito el pago del mes 3 en Disney Start
+------AVISO :Diego, ya pasaste 3 meses en Disney Start, te vamos a cambiar de plan.
+
+
+
+MES 9
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 9 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 9 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 3 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 3 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 9 en HBO Free
+Cesar, se realizo con éxito el pago del mes 9 en HBO Free
+Diego, se realizo con éxito el pago del mes 9 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 9 en Disney
+Cesar, se realizo con éxito el pago del mes 9 en Disney
+Diego, se realizo con éxito el pago del mes 4 en Disney
+
+
+
+MES 10
+Erika, bienvenido a Amazon Premium
+Erika, bienvenido a HBO Free
+Erika, bienvenido a Disney
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 10 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 10 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 4 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 1 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 4 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 10 en HBO Free
+Cesar, se realizo con éxito el pago del mes 10 en HBO Free
+Diego, se realizo con éxito el pago del mes 10 en HBO Free
+Erika, se realizo con éxito el pago del mes 1 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 10 en Disney
+Cesar, se realizo con éxito el pago del mes 10 en Disney
+Diego, se realizo con éxito el pago del mes 5 en Disney
+Erika, se realizo con éxito el pago del mes 1 en Disney
+
+
+
+MES 11
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 11 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 11 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 5 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 2 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 5 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 11 en HBO Free
+Cesar, se realizo con éxito el pago del mes 11 en HBO Free
+Diego, se realizo con éxito el pago del mes 11 en HBO Free
+Erika, se realizo con éxito el pago del mes 2 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 11 en Disney
+Cesar, se realizo con éxito el pago del mes 11 en Disney
+Diego, se realizo con éxito el pago del mes 6 en Disney
+Erika, se realizo con éxito el pago del mes 2 en Disney
+
+
+
+MES 12
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Spotify Premium
+Bob, se realizo con éxito el pago del mes 12 en Spotify Premium
+Diego, se realizo con éxito el pago del mes 12 en Spotify Premium
+Cesar, se realizo con éxito el pago del mes 6 en Spotify Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Amazon Premium
+Erika, se realizo con éxito el pago del mes 3 en Amazon Premium
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Netflix para 4 dispositivos
+Diego, se realizo con éxito el pago del mes 6 en Netflix para un dispositivo
+
+
+Alicia, se realizo con éxito el pago del mes 12 en HBO Free
+Cesar, se realizo con éxito el pago del mes 12 en HBO Free
+Diego, se realizo con éxito el pago del mes 12 en HBO Free
+Erika, se realizo con éxito el pago del mes 3 en HBO Free
+
+
+Alicia, se realizo con éxito el pago del mes 12 en Disney
+Cesar, se realizo con éxito el pago del mes 12 en Disney
+Diego, se realizo con éxito el pago del mes 7 en Disney
+Erika, se realizo con éxito el pago del mes 3 en Disney
+
+
