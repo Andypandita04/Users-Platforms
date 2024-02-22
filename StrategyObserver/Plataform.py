@@ -12,17 +12,6 @@ def write_on_file(texto, nombre_archivo):
 
 
 # Interfaz strategy
-        """
-class Strategy:
-    #def __init__(self,name, amount, month_change):
-    #    pass
-
-    def execute(self,cuenta):
-        pass
-
-    def change_plan(self, cuenta):
-        pass
-    """
 
 # Clase con todos los metodos strategy implementados
 class Strategy_Metodos:
@@ -186,6 +175,9 @@ class cuentaObserver:
         write_on_file(f"Observer: {self.observer}", "log.txt")
         write_on_file(f"Month: {self.month}", "log.txt")
         write_on_file(f"Tipo Plan: {self.tipo_plan}", "log.txt")
+
+
+
 ###############
 ###############
 ###############
@@ -206,12 +198,6 @@ class Subject:
  
     def detach(self, cuenta_observer):
         pass
-
-    def notify(self):
-        for observer in self.observers:
-            observer.update(self)
-
-
 
 
 class Platform(Subject):
